@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FlightChessDice</string>
+    <string name="roll_dice">0</string>
 </resources>
