@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">FlightChessDice</string>
+    <string name="app_name">骰子模拟器</string>
     <string name="roll_dice">0</string>
 </resources>
